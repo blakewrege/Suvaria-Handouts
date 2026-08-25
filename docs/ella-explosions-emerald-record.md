@@ -56,6 +56,6 @@
 
 ## Audit Notes
 
-- The compact campaign card identifies Ella as an **Engineer**; the detailed compatibility sheet labels the class field **Wizard**. This record keeps the campaign-facing Engineer identity.
+- Ella's canonical class is **Engineer**.
 - Neither sheet prints a level. Do not infer one from proficiency bonus alone.
 - Replace these legacy statistics only if Ella returns and receives a current sheet.

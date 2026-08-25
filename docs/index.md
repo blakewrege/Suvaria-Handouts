@@ -7,6 +7,7 @@ Welcome to the player-facing corner of Suvaria: handouts, menus, places, clues a
 ## Start Here
 
 - [Browse Armskirk handouts](armskirk-handouts.md)
+- [Open player records](player-records.md)
 - [Handouts associated with Session 077](session-077.md)
 - [Campaign rules and character options](suvaria-homebrew-rules.md)
 - [Open the main Suvaria wiki on Obsidian Portal](https://suvaria.obsidianportal.com/wikis/main-page)

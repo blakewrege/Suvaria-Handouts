@@ -31,24 +31,26 @@
 - **Immunities:** Disease and poison.
 - **Feats:** Grappler, Sharpshooter, and Mobile.
 
-## ⚔️ Legacy Attacks
+## ⚔️ Attack Reference
 
 | Attack | Bonus | Damage / notes |
 |---|---:|---|
-| Liáo Xi, sword form | +9 | `1d8 + 5` slashing with one hand, or `1d10 + 5` with two hands; add `1d6` fire while ablaze |
-| Liáo Xi, bow form | +9 | `1d8 + 5` piercing plus `1d6` fire; range 150/600 ft. |
-| Kensei melee weapon | +8 | 1d8 + 4 |
-| Longbow | +8 | 1d8 + 4 |
+| Liáo Xi, sword form — current | +10 | `1d8 + 6` slashing with one hand, or `1d10 + 6` with two hands; add `1d6` fire while ablaze |
+| Liáo Xi, bow form — current | +10 | `1d8 + 6` piercing plus `1d6` fire; range 150/600 ft. |
+| Kensei melee weapon — legacy | +8 | 1d8 + 4 |
+| Longbow — legacy | +8 | 1d8 + 4 |
+
+Liáo Xi's current totals use Chao's present **+5 Dexterity modifier** and the weapon's **+1 magical bonus**. The other attack lines remain part of the older level-11 snapshot.
 
 ## 🔥 Liáo Xi (燎息), “Scorching Breath”
 
 *+1 transforming jian — versatile, finesse, transforming*
 
-Liáo Xi grants a **+1 bonus to attack and damage rolls** made with it. In sword form, it deals `1d8` slashing damage in one hand or `1d10` slashing damage in two hands.
+Liáo Xi grants a **+1 bonus to attack and damage rolls** made with it. With Chao's current Dexterity, it attacks at **+10** and deals `1d8 + 6` slashing damage in one hand or `1d10 + 6` slashing damage in two hands.
 
 **Scorching Breath.** As a bonus action, Chao speaks the command word and flames erupt from the blade. The flames shed bright light for 40 feet and dim light for another 40 feet. While ablaze, Liáo Xi deals an extra `1d6` fire damage on every hit. The flames last until Chao uses a bonus action to repeat the command word, drops the weapon, or sheathes it.
 
-**Transforming.** As a bonus action, Chao transforms Liáo Xi between its sword and bow forms. The bow form has a normal range of 150 feet and a long range of 600 feet, creates its own burning arrows, and deals `1d8` piercing plus `1d6` fire damage on a hit. The weapon's +1 bonus applies in either form. Transforming into bow form ignites the weapon if it was not already ablaze.
+**Transforming.** As a bonus action, Chao transforms Liáo Xi between its sword and bow forms. The bow form has a normal range of 150 feet and a long range of 600 feet, creates its own burning arrows, and deals `1d8 + 6` piercing plus `1d6` fire damage on a hit. The weapon's +1 bonus applies in either form. Transforming into bow form ignites the weapon if it was not already ablaze.
 
 ## Currency and Major Purchases
 

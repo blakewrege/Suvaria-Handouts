@@ -11,10 +11,13 @@ Welcome, traveler from an antique land. The old Homebrewery tome has been separa
 - [Table Rules & Clarifications](homebrew-table-rules.md) — alignment, potions, flanking, injuries, attunement, and rule clarifications.
 - [Weapon Group Specializations](homebrew-weapon-specializations.md) — polearms, swords, bows, brawling, axes, clubs, and daggers.
 
-## Magic
+## Reward Spells
 
-- [Reward Spells](homebrew-spells.md) — Crowlies Cromatic Sparks, Wild Shrooms, and Animated Shroom.
-- [Eisenheim's Book of Illusions](eisenheims-book-of-illusions.md) — advanced illusionist spells.
+- [General Reward Spells](homebrew-spells.md) — Crowlies Cromatic Sparks, Wild Shrooms, and Animated Shroom.
+- [Eisenheim's Book of Illusions](eisenheims-book-of-illusions.md) — advanced illusionist reward spells.
+
+## Other Magic
+
 - [Curses & Boons](homebrew-curses-and-boons.md) — blessings, curses, and the consequences of making eye contact with deities.
 
 ## Equipment & Creatures

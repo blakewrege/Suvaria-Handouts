@@ -31,6 +31,7 @@ Her family includes her father **Edmund Dupree**, her stepmother **Collette Dupr
 - **Ring of Charm** — A previously released Bells item; its rules remain in the public campaign rules.
 - **Talking Skull** — A moody magical skull with opinions and no indoor voice.
 - **Stasis Module Charm** — A Dead Space-inspired charm. Its original mechanics are available in the standalone player handout.
+- **Staff of Whispers of the Dark Lord** — The legendary, cursed staff taken from King Curry. It contains the bound spirit of Gríma Wormtongue, whispers with Sauron's voice, and is currently in Bells's possession. Its complete original mechanics are available in the standalone player handout.
 - **Elixir of Enhanced Eloquence** — A previously released permanent upgrade awaiting verification against the current sheet.
 
 See [Legacy Magic Items](homebrew-magic-items.md) for the currently published legacy item text. The table’s latest ruling takes precedence where those older mechanics disagree with current play.
@@ -50,6 +51,7 @@ See [Legacy Magic Items](homebrew-magic-items.md) for the currently published le
 | Item | Attuned? | Rules source | Notes |
 |---|---|---|---|
 | Stasis Module Charm | Yes | [Original item handout](stasis-module-charm.md) | Historical mechanics preserved unchanged |
+| Staff of Whispers of the Dark Lord | Unknown | [Original item handout](staff-of-whispers-of-the-dark-lord.md) | Currently carried by Bells; confirm present attunement |
 
 ## Debts, Favors, and Ongoing Services
 

@@ -35,11 +35,13 @@ nav:
       - "Krunk": krunk-record.md
       - Equipment & Abilities:
           - Start Here: player-items.md
+          - "Krunk — Excalibur, the Promised Dawn": excalibur-promised-dawn.md
           - "Fang — Bag of Seed Tricks": bag-of-seed-tricks.md
           - "Fang — Skyhook Maneuver Gear": skyhook-maneuver-gear.md
           - "Krunk — Ash’s Righteous Chainsaw Blade": ashs-righteous-chainsaw-blade.md
           - "Caracas — Plasma Cutter of Limb Severance": plasma-cutter-of-limb-severance.md
           - "Bells — Stasis Module Charm": stasis-module-charm.md
+          - "Bells — Staff of Whispers of the Dark Lord": staff-of-whispers-of-the-dark-lord.md
           - "Amerilis — Spellbook": amerilis-spellbook.md
           - "Amerilis — Heritage, Cloak, Brooch & Cinderkin": amerilis-heritage-and-equipment.md
           - "Amerilis — Cinderkin Statistics": cinderkin-player-statistics.md
@@ -70,8 +72,9 @@ nav:
       - "Start Here": suvaria-homebrew-rules.md
       - "Table Rules & Clarifications": homebrew-table-rules.md
       - "Weapon Group Specializations": homebrew-weapon-specializations.md
-      - "Reward Spells": homebrew-spells.md
-      - "Eisenheim's Book of Illusions": eisenheims-book-of-illusions.md
+      - Reward Spells:
+          - "General Reward Spells": homebrew-spells.md
+          - "Eisenheim's Book of Illusions": eisenheims-book-of-illusions.md
       - "Curses & Boons": homebrew-curses-and-boons.md
       - "Legacy Magic Items": homebrew-magic-items.md
       - "Companions & Creatures": homebrew-companions-and-creatures.md

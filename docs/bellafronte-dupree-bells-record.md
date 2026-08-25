@@ -33,7 +33,7 @@ Her family includes her father **Edmund Dupree**, her stepmother **Collette Dupr
 - **Stasis Module Charm** — A Dead Space-inspired charm. Its original mechanics are available in the standalone player handout.
 - **Elixir of Enhanced Eloquence** — A previously released permanent upgrade awaiting verification against the current sheet.
 
-See [Rules & Character Options](suvaria-homebrew-rules.md) for the currently published legacy item text. The table’s latest ruling takes precedence where those older mechanics disagree with current play.
+See [Legacy Magic Items](homebrew-magic-items.md) for the currently published legacy item text. The table’s latest ruling takes precedence where those older mechanics disagree with current play.
 
 ## Currency and Major Purchases
 

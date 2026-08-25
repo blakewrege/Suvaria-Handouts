@@ -43,11 +43,13 @@
 
 | Session | Vendor | Purchase | Price | Paid by | Mechanical effect or statistics | Notes |
 |---:|---|---|---:|---|---|---|
+| 077 | Ink Dragon Tattoo House | Adventurer's Party Line — Budget Family Plan | 140 gp | Chao | Shared 25-word message and 25-word replies every 10 minutes | Linked to Amerilis, Bobbin, Caracas, and Krunk |
 
 ## Permanent Upgrades and Custom Abilities
 
 | Name | Source | Uses / recharge | Rules summary | Notes |
 |---|---|---|---|---|
+| Adventurer's Party Line — Budget Family Plan | [Ink Dragon catalog](ink-dragon-tattoo-house.md#greater-techniques) | Once every 10 minutes; shared cooldown | Send 25 words to the group; each member may reply with 25 words | Cannot mute, leave, or send privately |
 
 ## Important Equipment and Attunement
 

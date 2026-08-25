@@ -28,11 +28,19 @@ The card marks **Insight, Intimidation, Medicine, Perception, and Religion** as 
 
 | Session | Vendor | Purchase | Price | Paid by | Mechanical effect or statistics | Notes |
 |---:|---|---|---:|---|---|---|
+| 077 | Ink Dragon Tattoo House | Adventurer's Party Line — Budget Family Plan | 140 gp | Caracas | Shared 25-word message and 25-word replies every 10 minutes | Linked to Amerilis, Chao, Bobbin, and Krunk |
+| 077 | Ink Dragon Tattoo House | Mender's Knot | 500 gp | Caracas | Repairs mundane objects; once per short rest restores `2d6 + proficiency bonus` HP to an object or construct | Permanent Soulbound Ink |
+| 077 | Ink Dragon Tattoo House | Maker's Third Hand | 750 gp | Caracas | Once per short rest, summons a tool-hand for 10 minutes and adds `1d4` to one tool check | Permanent Soulbound Ink |
+| 077 | Ink Dragon Tattoo House | Truth in the Grain | 300 gp | Caracas | Once per short rest, identifies recent breaking, repair, or reshaping after 1 minute | Permanent Soulbound Ink |
 
 ## Permanent Upgrades and Custom Abilities
 
 | Name | Source | Uses / recharge | Rules summary | Notes |
 |---|---|---|---|---|
+| Adventurer's Party Line — Budget Family Plan | [Ink Dragon catalog](ink-dragon-tattoo-house.md#greater-techniques) | Once every 10 minutes; shared cooldown | Send 25 words to the group; each member may reply with 25 words | Cannot mute, leave, or send privately |
+| Mender's Knot | [Ink Dragon catalog](ink-dragon-tattoo-house.md#greater-techniques) | At will; restoration once per short rest | Repairs a mundane break after 1 minute, or restores `2d6 + proficiency bonus` HP to an object or construct | Requires tools and spare material for HP restoration |
+| Maker's Third Hand | [Ink Dragon catalog](ink-dragon-tattoo-house.md#greater-techniques) | Once per short rest | Spectral tool-hand lasts 10 minutes and adds `1d4` to one tool check | Cannot attack or work independently |
+| Truth in the Grain | [Ink Dragon catalog](ink-dragon-tattoo-house.md#cantrip-grade-techniques) | Once per short rest | Reveals primary material and whether an object was broken, repaired, or reshaped within seven days | Does not reveal authorship, authenticity, magic, or ownership |
 
 ## Important Equipment and Attunement
 

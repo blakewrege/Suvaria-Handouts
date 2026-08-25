@@ -50,6 +50,13 @@
 - Rope, thieves’ tools, poorly written love poems
 - Cooking gear enchanted to always burn eggs
 
+## 🐉 Session 077 Tattoos
+
+| Tattoo | Price | Rules summary |
+|---|---:|---|
+| Adventurer's Party Line — Budget Family Plan | 140 gp | [Once every 10 minutes](ink-dragon-tattoo-house.md#greater-techniques), send 25 words to Amerilis, Chao, Caracas, and Krunk; each may reply with 25 words. No muting, private messages, or leaving the chat. |
+| No Ragrets | 750 gp | [Once per long rest](ink-dragon-tattoo-house.md#experimental-ink-discounted-documented-dubious), reroll a failed save against fear. For the next hour, Bobbin cannot willingly admit any decision was a mistake. |
+
 ---
 
 # 🪶 Backstory

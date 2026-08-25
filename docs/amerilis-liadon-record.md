@@ -18,11 +18,15 @@
 
 | Session | Vendor | Purchase | Price | Paid by | Mechanical effect or statistics | Notes |
 |---:|---|---|---:|---|---|---|
+| 077 | Ink Dragon Tattoo House | Adventurer's Party Line — Budget Family Plan | 140 gp | Amerilis | Shared 25-word message and 25-word replies every 10 minutes | Linked to Chao, Bobbin, Caracas, and Krunk |
+| 077 | Ink Dragon Tattoo House | Pocket Gecko | 150 gp | Amerilis | Once per short rest, fetches one unattended object of 1 lb. or less within 30 feet | Permanent Soulbound Ink |
 
 ## Permanent Upgrades and Custom Abilities
 
 | Name | Source | Uses / recharge | Rules summary | Notes |
 |---|---|---|---|---|
+| Adventurer's Party Line — Budget Family Plan | [Ink Dragon catalog](ink-dragon-tattoo-house.md#greater-techniques) | Once every 10 minutes; shared cooldown | Send 25 words to the group; each member may reply with 25 words | Cannot mute, leave, or send privately |
+| Pocket Gecko | [Ink Dragon catalog](ink-dragon-tattoo-house.md#cantrip-grade-techniques) | Once per short rest | Summons an ink gecko for 10 minutes to retrieve a small unattended object | Cannot scout beyond Amerilis's sight |
 | Heritage abilities and the Mark of Thaurë’Vanya | [Heritage & Equipment](amerilis-heritage-and-equipment.md) | See handout | Preserved from the released Session 071 text | Includes Frostveins, Igni Blood, and the Mark |
 | Cinderkin | [Player-safe statistics](cinderkin-player-statistics.md) | See handout | Preserved from the released Session 071 text | Detailed combat and utility statistics |
 

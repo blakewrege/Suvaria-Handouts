@@ -11,6 +11,7 @@ Welcome to the player-facing corner of Suvaria: handouts, menus, places, clues a
 - [Handouts associated with Session 077](session-077.md)
 - [Campaign rules and character options](suvaria-homebrew-rules.md)
 - [Open the main Suvaria wiki on Obsidian Portal](https://suvaria.obsidianportal.com/wikis/main-page)
+- [Read the public Session Progress record](https://docs.google.com/document/d/1QeBJ7dNJyzyfM0sZDRdL4PaBg6sjofIa/edit)
 
 ## Major Locations
 

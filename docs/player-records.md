@@ -3,6 +3,7 @@
 Public campaign ledgers for current statistics, major purchases, permanent upgrades, important equipment, and the debts nobody successfully argued were only a rumor.
 
 - [Amerilis Liadon](amerilis-liadon-record.md)
+- [Bellafronte Dupree “Bells”](bellafronte-dupree-bells-record.md)
 - [Black Chao](black-chao-record.md)
 - [Bobbin Hode](bobbin-hode-record.md)
 - [Caracas](caracas-record.md)

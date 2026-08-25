@@ -19,6 +19,7 @@ extra_css:
 nav:
   - Home: index.md
   - Campaign Wiki: "https://suvaria.obsidianportal.com/wikis/main-page"
+  - Campaign Progress: "https://docs.google.com/document/d/1QeBJ7dNJyzyfM0sZDRdL4PaBg6sjofIa/edit"
   - Major Locations:
       - "Republic of Leonia": republic-of-leonia.md
       - "Armskirk": armskirk.md
@@ -26,6 +27,7 @@ nav:
   - Player Records:
       - Start Here: player-records.md
       - "Amerilis Liadon": amerilis-liadon-record.md
+      - "Bellafronte Dupree “Bells”": bellafronte-dupree-bells-record.md
       - "Black Chao": black-chao-record.md
       - "Bobbin Hode": bobbin-hode-record.md
       - "Caracas": caracas-record.md

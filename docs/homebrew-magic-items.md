@@ -69,8 +69,6 @@ You feel a slight shock whenever you pick it up; the weapon seems to vibrate wit
 
 As a bonus action you may eat or give a bean. Most of these beans [Enhance Ability](https://dnd5e.fandom.com/wiki/Enhance_Ability), but several do other things. Make an Intelligence check (DC 12) to pick the correct bean. On a failure, roll a d8 and use that to select the color. The duration is 10 minutes. The party currently has 20 beans. Gilly warns only to eat one bean per person before taking a rest.
 
-![Gilly’s Bag of Beans](https://i.imgur.com/zVYeByN.png)
-
 ### Garland of Garlic
 
 *Net, uncommon*

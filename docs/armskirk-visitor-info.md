@@ -10,7 +10,7 @@
 | **Cloud Mirror Salon — Adventure, Apology, or Court Appearance?** | Haircuts, hot-towel shaves, beard shaping, braids, fur brushing, feather oiling, horn polishing, and emergency repairs after helmets. Ask for Farrah Faucet. She already knows why you are here. |
 | **Lotus Hot Springs Day Pass** | Madam Yu Zhen offers affordable public mineral baths, steam rooms, towels, scrubs, massage, laundry service, and neighborhood gossip at no additional charge. |
 | **Jade Steam Private Onsen** | Reserved mineral baths, carved screens, flowering courtyards, tea service, and staff professionally trained not to notice the next room. All guests must leave before sunset; overnight accommodations and eight-armed employees are officially unavailable. |
-| **[Hundred Herbs Hall — Travel-Weary Remedies](hundred-herbs-hall.md)** | Affordable salves, combat tonics, monster oils, throwing powders, hangover remedies, and expert advice against drinking all of them at once. |
+| **Hundred Herbs Hall — Travel-Weary Remedies** | Affordable salves, combat tonics, monster oils, throwing powders, hangover remedies, and expert advice against drinking all of them at once. |
 | **Ink Dragon Tattoo House Consultation** | Zhen “Calamity” Jian offers protective tattoos, family crests, spirit animals, moonlit ink, and questions suspiciously better than the answers. |
 | **Silver Needle Tailors — Repairs While You Wait** | Travel-cloak relining, formal fittings, festival clothes, armor-friendly alterations, and new sleeves after the old ones met heroism. |
 | **Saint Dacius Civic Hospital Charity Evening** | Healers, donors, speeches, light refreshments, and opportunities to look generous in public while supporting one of Leonia’s finest hospitals. |

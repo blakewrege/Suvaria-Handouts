@@ -88,7 +88,7 @@ These are places to visit, not complete inventories. Ask at the counter if you n
 
 <p><img src="https://i.imgur.com/ppkRHnZ.png" alt="Master Shrew Fu" width="110"> <img src="https://i.imgur.com/yBWUXdJ.png" alt="Beakatrice Plume" width="110"> <img src="https://i.imgur.com/ahvpHX1.png" alt="Jean-Clawed Van Ram" width="110"></p>
 
-- **[Baihe Wuguan (White Crane Dojo)](white-crane-dojo.md)** — Xiaolong's respected martial school offers public demonstrations and beginner lessons under **Master Shrew Fu**, a tiny shrew shifter whose patience is shorter than he is and whose staff has never once been used for walking. Senior instructors **Beakatrice Plume** and **Jean-Clawed Van Ram** teach grace, balance, and trousers-defying high kicks.
+- **Baihe Wuguan (White Crane Dojo)** — Xiaolong's respected martial school offers public demonstrations and beginner lessons under **Master Shrew Fu**, a tiny shrew shifter whose patience is shorter than he is and whose staff has never once been used for walking. Senior instructors **Beakatrice Plume** and **Jean-Clawed Van Ram** teach grace, balance, and trousers-defying high kicks.
 
 <p><img src="https://i.imgur.com/mPrfQe7.png" alt="Zhen Calamity Jian" width="110"></p>
 

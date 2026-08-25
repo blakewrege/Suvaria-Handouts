@@ -27,18 +27,18 @@ nav:
       - Start Here: armskirk-handouts.md
       - "Visitor Information":
           - "Welcome to Armskirk!": armskirk-visitor-info.md
-      - "Places in Armskirk":
-          - "The Pink Pony Inn": pink-pony-inn.md
       - "Shops & Services":
           - "Ink Dragon Tattoo House": ink-dragon-tattoo-house.md
           - "Jade Steam Private Onsen": jade-steam-onsen.md
           - "Kardarsha's Curds & Curios": kardarshas-curds-and-curios.md
       - "Entertainment & Excursions":
-          - "Moon Gate Open-Air Theater": moon-gate-theater.md
+          - "The Pink Pony Inn": pink-pony-inn.md
       - "Trials & Investigation":
           - "The Snoat Sheet": debate-snoat-sheet.md
           - "Recovered Archive Summary": grand-office-of-cheer.md
           - "Session 077 Clue Cards": session-077-clue-cards.md
   - Rules & Character Options:
       - "Rules & Character Options": suvaria-homebrew-rules.md
-  - Session 077: session-077.md
+  - Sessions:
+      - Session Index: sessions.md
+      - Session 077: session-077.md

@@ -12,10 +12,6 @@ Player-facing documents associated with this session and the surrounding Armskir
 - [Jade Steam Private Onsen](jade-steam-onsen.md)
 - [Kardarsha's Curds & Curios](kardarshas-curds-and-curios.md)
 
-## Entertainment & Excursions
-
-- [Moon Gate Open-Air Theater](moon-gate-theater.md)
-
 ## Trials & Investigation
 
 - [The Snoat Sheet](debate-snoat-sheet.md)

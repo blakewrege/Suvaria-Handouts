@@ -8,10 +8,6 @@ Everything the party has been handed, shown, sold, or legally permitted to know 
 
 - [Welcome to Armskirk!](armskirk-visitor-info.md)
 
-## Places in Armskirk
-
-- [The Pink Pony Inn](pink-pony-inn.md)
-
 ## Shops & Services
 
 - [Ink Dragon Tattoo House](ink-dragon-tattoo-house.md)
@@ -20,7 +16,7 @@ Everything the party has been handed, shown, sold, or legally permitted to know 
 
 ## Entertainment & Excursions
 
-- [Moon Gate Open-Air Theater](moon-gate-theater.md)
+- [The Pink Pony Inn](pink-pony-inn.md)
 
 ## Trials & Investigation
 

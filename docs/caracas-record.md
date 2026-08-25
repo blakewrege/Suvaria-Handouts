@@ -28,7 +28,12 @@
 
 | Item | Attuned? | Rules source | Notes |
 |---|---|---|---|
+| Maul of Maelstroms | Unknown | [Legacy item entry](homebrew-magic-items.md#maul-of-maelstroms) | Imported under the older spelling “Caracus” |
+| Gilly’s Bag of Beans | N/A | [Legacy item entry](homebrew-magic-items.md#gillys-bag-of-beans) | Ownership was marked uncertain in the original record |
+| Garland of Garlic | N/A | [Legacy item entry](homebrew-magic-items.md#garland-of-garlic) | Vampire-control net |
+| Bone Breaker | Unknown | [Legacy item entry](homebrew-magic-items.md#bone-breaker) | Confirm current possession and attunement |
 | Plasma Cutter of Limb Severance | Yes | [Original item handout](plasma-cutter-of-limb-severance.md) | Historical mechanics preserved unchanged |
+| Gloves of Archival Knowledge | Unknown | [Legacy item entry](homebrew-magic-items.md#gloves-of-archival-knowledge) | Confirm current possession and attunement |
 
 ## Debts, Favors, and Ongoing Services
 

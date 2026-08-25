@@ -28,8 +28,13 @@
 
 | Item | Attuned? | Rules source | Notes |
 |---|---|---|---|
+| Ring of the Gladiators | N/A | [Legacy item entry](homebrew-magic-items.md#ring-of-the-gladiators) | Confirm current possession |
+| Veil of Shadows | Unknown | [Legacy item entry](homebrew-magic-items.md#veil-of-shadows) | Also called the Shield of the Void |
+| Sword of Screams | N/A | [Legacy item entry](homebrew-magic-items.md#sword-of-screams) | Confirm current possession and preferred soundtrack |
+| Chilling Halberd | Unknown | [Legacy item entry](homebrew-magic-items.md#chilling-halberd) | Confirm current possession and attunement |
 | Ash’s Righteous Chainsaw Blade | Yes | [Original item handout](ashs-righteous-chainsaw-blade.md) | Historical mechanics preserved unchanged |
 | Excalibur, the Promised Dawn | Yes | [Excalibur](excalibur-promised-dawn.md) | Current published sword handout |
+| Historian’s Horologe | Unknown | [Legacy item entry](homebrew-magic-items.md#historians-horologe) | Confirm current possession and attunement |
 
 ## Debts, Favors, and Ongoing Services
 

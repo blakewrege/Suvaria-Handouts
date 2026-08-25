@@ -44,12 +44,14 @@
 | Session | Vendor | Purchase | Price | Paid by | Mechanical effect or statistics | Notes |
 |---:|---|---|---:|---|---|---|
 | 077 | Ink Dragon Tattoo House | Adventurer's Party Line — Budget Family Plan | 140 gp | Chao | Shared 25-word message and 25-word replies every 10 minutes | Linked to Amerilis, Bobbin, Caracas, and Krunk |
+| 077 | Ink Dragon Tattoo House | Hush Stitch | 125 gp | Chao | Once per short rest, suppresses incidental noise from one object or a small related set touched simultaneously for 10 minutes | Permanent Soulbound Ink |
 
 ## Permanent Upgrades and Custom Abilities
 
 | Name | Source | Uses / recharge | Rules summary | Notes |
 |---|---|---|---|---|
 | Adventurer's Party Line — Budget Family Plan | [Ink Dragon catalog](ink-dragon-tattoo-house.md#greater-techniques) | Once every 10 minutes; shared cooldown | Send 25 words to the group; each member may reply with 25 words | Cannot mute, leave, or send privately |
+| Hush Stitch | [Ink Dragon catalog](ink-dragon-tattoo-house.md#cantrip-grade-techniques) | Once per short rest | Suppresses incidental noise from one object or a small related set Chao touches simultaneously | Works on paired shoes, adjacent wheels, linked buckles, and similar sets; does not silence voices, attacks, alarms, or spellcasting |
 
 ## Important Equipment and Attunement
 

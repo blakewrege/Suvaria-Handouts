@@ -16,7 +16,7 @@ Everything the party has been handed, shown, sold, or legally permitted to know 
 
 ## Entertainment & Excursions
 
-- [The Pink Pony Inn](pink-pony-inn.md)
+- [Pink Pony Inn Menu & House Guide](pink-pony-inn.md)
 
 ## Trials & Investigation
 

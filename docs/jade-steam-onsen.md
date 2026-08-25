@@ -1,7 +1,5 @@
 # Jade Steam Private Onsen
 
-![Jade Steam Private Onsen during its peaceful daytime service](https://i.imgur.com/7i0OP7n.png)
-
 *Reserved mineral baths, flowering courtyards, and staff professionally trained not to notice the next room.*
 
 **Daylight reservations only. All guests must depart before sunset. Jade Steam does not provide overnight lodging, spirit arbitration, or name-recovery services.**
@@ -66,9 +64,5 @@ Jade Steam will receive and send ordinary messages during daylight hours. Staff 
 3. The staff did not notice the next room. Neither did you.
 4. Cannonballs are billed according to displaced water.
 5. If the tenth bell rings during your appointment, please proceed calmly to an exit that still exists.
-
-![Jade Steam after the tenth bell, when the ordinary clientele has gone home](https://i.imgur.com/cBHND7D.png)
-
-![The spirit-night shift at Jade Steam Private Onsen](https://i.imgur.com/z5JpCoP.png)
 
 **Tea may always be replaced with sake. Wisdom may not.**

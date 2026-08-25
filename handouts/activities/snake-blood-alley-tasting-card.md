@@ -1,0 +1,1 @@
+../locations/armskirk/snake-blood-alley-tasting-card.md

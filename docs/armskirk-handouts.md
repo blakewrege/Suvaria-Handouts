@@ -21,7 +21,6 @@ Everything the party has been handed, shown, sold, or legally permitted to know 
 ## Trials & Investigation
 
 - [The Snoat Sheet](debate-snoat-sheet.md)
-- [Recovered Archive Summary](grand-office-of-cheer.md)
 - [Session 077 Clue Cards](session-077-clue-cards.md)
 
 <div class="portal-note">If a document is missing, it has not been released to players yet—or someone filed it with the Armskirk municipal government.</div>

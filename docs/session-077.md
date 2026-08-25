@@ -19,7 +19,6 @@ Player-facing documents associated with this session and the surrounding Armskir
 ## Trials & Investigation
 
 - [The Snoat Sheet](debate-snoat-sheet.md)
-- [Recovered Archive Summary](grand-office-of-cheer.md)
 - [Session 077 Clue Cards](session-077-clue-cards.md)
 
 ## Scenes & Artwork

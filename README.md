@@ -1,21 +1,11 @@
-# Suvaria Player Handouts
+# Suvaria Player Portal
 
-Player-facing lore, handouts, menus, and campaign rules for the Suvaria D&D campaign.
+The player website is published at **https://blakewrege.github.io/Suvaria-Handouts/**.
 
-> This repository is published from the private campaign archive. Do not edit generated files here; changes belong in the private master repository.
+The Markdown source is intentionally flat under `docs/`; the navigation in `mkdocs.yml` supplies the player-friendly hierarchy. This repository is generated from an explicit private allowlist. Do not edit generated handouts here.
 
-## Start Here
+- Major campaign locations: [Obsidian Portal](https://suvaria.obsidianportal.com/wikis/main-page)
+- Player website source: [`docs/`](docs/)
+- Latest indexed session: **077**
 
-- [Latest session: 077](sessions/077/)
-- [Browse handouts by location](handouts/locations/)
-- [Shops and services](handouts/shops/)
-- [Activities and entertainment](handouts/activities/)
-- [Investigation handouts](handouts/investigation/)
-- [Trials of the Three Cities](handouts/trials/)
-
-## Campaign Reference
-
-- [World guide](world/)
-- [Rules and character options](rules/)
-
-Canonical handouts live under **Locations**. Category and session indexes link directly to those files, so every view stays synchronized and works in GitHub's browser.
+After updating the generated source, deploy the player site with `mkdocs gh-deploy --force`.

@@ -1,0 +1,50 @@
+site_name: "Suvaria Player Portal"
+site_description: "Player-facing handouts, places, and campaign rules for Suvaria."
+site_url: "https://blakewrege.github.io/Suvaria-Handouts/"
+repo_url: "https://github.com/blakewrege/Suvaria-Handouts"
+repo_name: "Suvaria-Handouts"
+edit_uri: ""
+theme:
+  name: mkdocs
+  nav_style: dark
+plugins:
+  - search
+markdown_extensions:
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+extra_css:
+  - stylesheets/suvaria.css
+nav:
+  - Home: index.md
+  - Campaign Wiki: "https://suvaria.obsidianportal.com/wikis/main-page"
+  - Major Locations:
+      - "Republic of Leonia": republic-of-leonia.md
+      - "Armskirk": armskirk.md
+      - "Mian Lung": mian-lung.md
+  - Armskirk Handouts:
+      - Start Here: armskirk-handouts.md
+      - "Start Here":
+          - "Welcome to Armskirk!": armskirk-visitor-info.md
+      - "Places in Armskirk":
+          - "The Pink Pony Inn": pink-pony-inn.md
+          - "White Crane Dojo": white-crane-dojo.md
+      - "Shops & Services":
+          - "Borb's Buns Menu": borbs-buns-menu.md
+          - "Dragon Child Toy Shop": dragon-child-toy-shop.md
+          - "Hundred Herbs Hall": hundred-herbs-hall.md
+          - "Ink Dragon Tattoo House": ink-dragon-tattoo-house.md
+          - "Jade Steam Private Onsen": jade-steam-onsen.md
+          - "Kardarsha's Curds & Curios": kardarshas-curds-and-curios.md
+      - "Entertainment & Excursions":
+          - "Moon Gate Open-Air Theater": moon-gate-theater.md
+          - "Snake Blood Alley Delicacy Crawl": snake-blood-alley.md
+          - "Wetwood's Brokeback Outfitters": wetwoods-brokeback-outfitters.md
+      - "Trials & Investigation":
+          - "The Snoat Sheet": debate-snoat-sheet.md
+          - "Recovered Archive Summary": grand-office-of-cheer.md
+          - "Session 077 Clue Cards": session-077-clue-cards.md
+  - Rules & Character Options:
+      - "Rules & Character Options": suvaria-homebrew-rules.md
+  - Session 077: session-077.md

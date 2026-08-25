@@ -1,0 +1,63 @@
+:root {
+  --suvaria-ink: #251c28;
+  --suvaria-plum: #4c233f;
+  --suvaria-gold: #c4933f;
+  --suvaria-paper: #fbf6e9;
+  --suvaria-mist: #efe5cf;
+}
+
+body {
+  color: var(--suvaria-ink);
+  background: var(--suvaria-paper);
+}
+
+.navbar, .navbar-default {
+  background: linear-gradient(110deg, #211728, var(--suvaria-plum));
+  border-bottom: 3px solid var(--suvaria-gold);
+}
+
+.navbar-brand, .navbar-default .navbar-nav > li > a {
+  color: #fff8df !important;
+}
+
+a { color: #8b3f48; }
+a:hover { color: #b06b36; }
+
+h1, h2, h3 {
+  color: var(--suvaria-plum);
+}
+
+h1 {
+  border-bottom: 2px solid var(--suvaria-gold);
+  padding-bottom: .3rem;
+}
+
+.bs-sidebar .nav > .active > a,
+.bs-sidebar .nav > .active:hover > a {
+  border-right-color: var(--suvaria-gold);
+  color: var(--suvaria-plum);
+}
+
+table {
+  background: rgba(255, 255, 255, .52);
+}
+
+blockquote {
+  border-left-color: var(--suvaria-gold);
+  background: var(--suvaria-mist);
+  padding: .75rem 1rem;
+}
+
+.portal-note {
+  background: var(--suvaria-mist);
+  border: 1px solid #d7c49a;
+  border-left: 5px solid var(--suvaria-gold);
+  border-radius: 4px;
+  margin: 1rem 0;
+  padding: .8rem 1rem;
+}
+
+img {
+  border-radius: 5px;
+  max-width: 100%;
+}

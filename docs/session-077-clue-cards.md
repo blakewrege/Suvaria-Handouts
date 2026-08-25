@@ -30,20 +30,6 @@
 
 ---
 
-## Maribel's Note
-
-**For my little Robin,**
-
-If the city is cruel, be kinder than it deserves.
-
-If the world takes from you, give back where you can.
-
-And if you must steal, steal from someone who can afford the lesson.
-
-**—M.**
-
----
-
 ## Official Trials Notice
 
 ### Congratulations, Surviving Candidates!

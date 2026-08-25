@@ -28,6 +28,8 @@
 
 | Item | Attuned? | Rules source | Notes |
 |---|---|---|---|
+| Bag of Seed Tricks | See handout | [Bag of Seed Tricks](bag-of-seed-tricks.md) | Plants vs. Zombies edition |
+| Skyhook Maneuver Gear | Yes | [Skyhook Maneuver Gear](skyhook-maneuver-gear.md) | Includes Fang’s practice benefit |
 
 ## Debts, Favors, and Ongoing Services
 
@@ -37,4 +39,4 @@
 ## Audit Notes
 
 - Confirm the latest character sheet statistics and current campaign status.
-- The Bag of Seed Tricks and Skyhook Maneuver Gear have older source files awaiting a rules audit before they are added here.
+- The Bag of Seed Tricks and Skyhook Maneuver Gear are published with their original mechanics unchanged.

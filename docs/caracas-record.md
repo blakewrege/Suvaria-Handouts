@@ -28,6 +28,7 @@
 
 | Item | Attuned? | Rules source | Notes |
 |---|---|---|---|
+| Plasma Cutter of Limb Severance | Yes | [Original item handout](plasma-cutter-of-limb-severance.md) | Historical mechanics preserved unchanged |
 
 ## Debts, Favors, and Ongoing Services
 

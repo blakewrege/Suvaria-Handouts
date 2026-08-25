@@ -23,11 +23,16 @@
 
 | Name | Source | Uses / recharge | Rules summary | Notes |
 |---|---|---|---|---|
+| Heritage abilities and the Mark of Thaurë’Vanya | [Heritage & Equipment](amerilis-heritage-and-equipment.md) | See handout | Preserved from the released Session 071 text | Includes Frostveins, Igni Blood, and the Mark |
+| Cinderkin | [Player-safe statistics](cinderkin-player-statistics.md) | See handout | Preserved from the released Session 071 text | Detailed combat and utility statistics |
 
 ## Important Equipment and Attunement
 
 | Item | Attuned? | Rules source | Notes |
 |---|---|---|---|
+| Spellbook | — | [Amerilis’s Spellbook](amerilis-spellbook.md) | Level 12 preparation reference |
+| Cloak of Winter’s Grace | Yes | [Heritage & Equipment](amerilis-heritage-and-equipment.md) | Ancestral garment |
+| Lindarcalen — The Emberdream Brooch | Yes | [Heritage & Equipment](amerilis-heritage-and-equipment.md) | Summer Court heirloom and Cinderkin’s bond |
 
 ## Debts, Favors, and Ongoing Services
 

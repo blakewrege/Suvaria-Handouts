@@ -28,6 +28,8 @@
 
 | Item | Attuned? | Rules source | Notes |
 |---|---|---|---|
+| Ash’s Righteous Chainsaw Blade | Yes | [Original item handout](ashs-righteous-chainsaw-blade.md) | Historical mechanics preserved unchanged |
+| Excalibur, the Promised Dawn | Yes | [Excalibur](excalibur-promised-dawn.md) | Current published sword handout |
 
 ## Debts, Favors, and Ongoing Services
 

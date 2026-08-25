@@ -30,7 +30,7 @@ Her family includes her father **Edmund Dupree**, her stepmother **Collette Dupr
 - **Tusk Love** — Orc erotic fiction, gifted by Krunk in a moment that technically qualified as diplomacy.
 - **Ring of Charm** — A previously released Bells item; its rules remain in the public campaign rules.
 - **Talking Skull** — A moody magical skull with opinions and no indoor voice.
-- **Stasis Module Charm** — A Dead Space-inspired charm with older mechanics awaiting a current rules audit.
+- **Stasis Module Charm** — A Dead Space-inspired charm. Its original mechanics are available in the standalone player handout.
 - **Elixir of Enhanced Eloquence** — A previously released permanent upgrade awaiting verification against the current sheet.
 
 See [Rules & Character Options](suvaria-homebrew-rules.md) for the currently published legacy item text. The table’s latest ruling takes precedence where those older mechanics disagree with current play.
@@ -49,6 +49,7 @@ See [Rules & Character Options](suvaria-homebrew-rules.md) for the currently pub
 
 | Item | Attuned? | Rules source | Notes |
 |---|---|---|---|
+| Stasis Module Charm | Yes | [Original item handout](stasis-module-charm.md) | Historical mechanics preserved unchanged |
 
 ## Debts, Favors, and Ongoing Services
 

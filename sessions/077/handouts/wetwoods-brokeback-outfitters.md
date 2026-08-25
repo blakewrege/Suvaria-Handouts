@@ -1,1 +1,0 @@
-../../../handouts/locations/armskirk/wetwoods-brokeback-outfitters.md

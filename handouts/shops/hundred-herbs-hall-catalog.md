@@ -1,1 +1,0 @@
-../locations/armskirk/hundred-herbs-hall-catalog.md

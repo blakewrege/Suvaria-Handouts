@@ -18,4 +18,4 @@ Player-facing lore, handouts, menus, and campaign rules for the Suvaria D&D camp
 - [World guide](world/)
 - [Rules and character options](rules/)
 
-Canonical handouts live under **Locations**. Category and session folders contain relative symlinks to those files, so every view stays synchronized.
+Canonical handouts live under **Locations**. Category and session indexes link directly to those files, so every view stays synchronized and works in GitHub's browser.

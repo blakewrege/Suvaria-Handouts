@@ -1,1 +1,0 @@
-../locations/armskirk/ink-dragon-tattoo-catalog.md

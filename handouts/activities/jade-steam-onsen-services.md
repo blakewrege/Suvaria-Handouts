@@ -1,1 +1,0 @@
-../locations/armskirk/jade-steam-onsen-services.md

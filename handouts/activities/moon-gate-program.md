@@ -1,1 +1,0 @@
-../locations/armskirk/moon-gate-program.md

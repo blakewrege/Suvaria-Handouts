@@ -1,1 +1,0 @@
-../../../handouts/locations/armskirk/debate-snoat-sheet.md

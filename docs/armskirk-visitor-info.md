@@ -3,6 +3,14 @@
 
 > **Complimentary maps! Questionably complimentary advice!** Take whatever catches your eye. Armskirk accepts no responsibility for missed trains, overconfident tour guides, regrettable haircuts requested by the customer, or anything a talking bird repeats under oath.
 
+![Armskirk visitor information rack, first selection](https://i.imgur.com/kXzPYGI.png)
+
+![Armskirk visitor information rack, second selection](https://i.imgur.com/N4z4ejf.png)
+
+![Armskirk visitor information rack, third selection](https://i.imgur.com/8HnJMP6.png)
+
+![Armskirk visitor information rack, fourth selection](https://i.imgur.com/F69AAri.png)
+
 ## Looking Presentable, Feeling Better
 
 | Brochure | What It Promises |

@@ -23,6 +23,8 @@ Outside lies **Audience Plaza**, where speeches, protests, verdicts, festival an
 
 The **Lion Line Central Depot** links Armskirk with the wider republic through Leonia's joint rail venture with Tinkertown. Its schedules are clear, comprehensive, and generally accurate until a passenger begins relying on them.
 
+![The party pedals Moya through Armskirk after converting the wagon into a beer bus](https://i.imgur.com/YWzAb9g.png)
+
 ## Districts and Landmarks
 
 For practical navigation, imagine Armskirk arranged around the **Grand Promenade** and **Hall of Accord** at its civic center. The **Old Harbor** and oldest streets lie northwest along the coast. The **Lion Line depot**, freight yards, and heavy trade district spread west and southwest. **Xiaolong** follows the eastern and southeastern canals. The entertainment district—including the Pink Pony—sits between the Promenade and the waterfront, where respectable visitors can reach it conveniently and deny doing so afterward. Hospital Hill rises north of the Promenade, while Candlewick Row and other older working neighborhoods fill the less polished streets around the civic center.
@@ -123,6 +125,8 @@ Today Sterling arranges loans for merchants, guilds, civic projects, and first-t
 ## The Trials in Armskirk
 
 ![The Trials debate in Armskirk](https://i.imgur.com/5ZFKVlA.png)
+
+<p><img src="https://i.imgur.com/HtKgeHX.png" alt="Marshal Marioni" width="150"> <img src="https://i.imgur.com/tTx6l9R.png" alt="Princess Persica" width="150"></p>
 
 Armskirk currently hosts the **Trials of the Three Cities**, the ritual competition that will choose Leonia's next Ringleader. The city has become equal parts election, carnival, sporting event, trade fair, and rumor with street food.
 

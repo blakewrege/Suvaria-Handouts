@@ -69,7 +69,7 @@ At the Hall of Accord, the Chancellor occupies the separate **Jade Seat** rather
 
 ### Chancellor Jack E. Chan
 
-<img src="https://i.imgur.com/h34Vr9c.png" alt="Chancellor Jack E. Chan" width="180">
+<img src="https://i.imgur.com/pqlwZin.png" alt="Chancellor Jack E. Chan" width="180">
 
 Jack E. Chan is a former civil-defense organizer and treaty negotiator who would rather fix a problem himself than order someone else into danger. He is warm, practical, self-deprecating, and remarkably capable, though rarely dignified while demonstrating it.
 

@@ -1,5 +1,7 @@
 # The Pink Pony Inn
 
+![The Pink Pony Inn glows beneath its rose-colored lanterns](https://i.imgur.com/CQ43bj7.png)
+
 - **Type:** Bardcore tavern, cabaret, and suspiciously social inn
 - **Location:** Armskirk's entertainment district
 - **Owner:** Madam Maeve Mane
@@ -45,6 +47,8 @@ The Pink Pony belongs to **Madam Maeve Mane**, an impeccably dressed mare shifte
 She leaves the bar to Butch and the nightly spectacle to whoever survives Clint, but controls the bookings, payroll, booth assignments, and quiet removal of patrons who confuse hospitality with ownership. Maeve's rule is simple: every guest may choose who they are inside the Pink Pony, provided they respect everyone else's choice too.
 
 ## House Attractions
+
+![A night of music, dancing, and professionally maintained plausible deniability at the Pink Pony](https://i.imgur.com/WuBJYKg.png)
 
 - **A Fistful of Coppers** is the early show: affordable drinks, loud music, and performers building toward decisions they will defend as artistic.
 - **For a Few Coppers More** is the late show, when the costumes improve and judgment becomes a limited resource.

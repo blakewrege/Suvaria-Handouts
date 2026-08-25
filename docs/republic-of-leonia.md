@@ -43,13 +43,13 @@ The Hall of Accord in Armskirk currently houses the national government. Its pub
 
 | Office | Holder | Public responsibility |
 |---|---|---|
-| **Ringleader** | <img src="https://i.imgur.com/5xj4rXA.png" alt="Lincohn Abraham" width="110"><br>**Lincohn Abraham** | Head of government and defender of the republic's charter |
+| **Ringleader** | <img src="https://i.imgur.com/Pn0LmwW.png" alt="Lincohn Abraham" width="110"><br>**Lincohn Abraham** | Head of government and defender of the republic's charter |
 | **Vice-Ringleader** | <img src="https://i.imgur.com/7gRgayO.png" alt="Andruw Junction" width="110"><br>**Andruw Junction** | Administration, logistics, and coordination among the cities |
 | **Master of the Muster** | <img src="https://i.imgur.com/vMIhOWw.png" alt="General Wei Shen" width="110"><br>**General Wei Shen** | Defense, militias, emergency response, and Trials security |
 | **Keeper of the Charter** | <img src="https://i.imgur.com/IyGdN0g.png" alt="Magister Pica Draft" width="110"><br>**Magister Pica Draft** | Laws, records, archives, and official decrees |
 | **Voice of the Republic** | <img src="https://i.imgur.com/LDo0H3Y.png" alt="Dolly Mannerly" width="110"><br>**Dolly Mannerly** | Ceremonies, public announcements, and civic messaging |
 | **High Juggler** | <img src="https://i.imgur.com/fgysBFX.png" alt="Benny Frankquill" width="110"><br>**Benny Frankquill** | Taxes, tariffs, budgets, treasury, and trade policy |
-| **Chancellor of Mian Lung** | <img src="https://i.imgur.com/h34Vr9c.png" alt="Chancellor Jack E. Chan" width="110"><br>**Jack E. Chan** | Provincial government and Mian representation before the Ringleader |
+| **Chancellor of Mian Lung** | <img src="https://i.imgur.com/pqlwZin.png" alt="Chancellor Jack E. Chan" width="110"><br>**Jack E. Chan** | Provincial government and Mian representation before the Ringleader |
 
 The Chancellor occupies Mian Lung's separate **Jade Seat**, not a seventh place in the Barker Circle. The seat carries a binding vote when national decisions alter the province's levies, military deployments, treaty rights, or the Jade-Lion Concord; otherwise the Chancellor advises the government with all the authority of a very old treaty and an extremely heavy binder.
 
@@ -76,6 +76,8 @@ Young Leonian **Lincohn Abraham** joined the rebellion as a vampire hunter, wiel
 The new government abolished slavery, established citizenship, protected voting rights, and rebuilt the country as the **Sporeign Dominion of Mycoterra**. Mycoterrans remain quick to remind foreign admirers that they liberated themselves; Lincohn helped with the unusually persistent vampires.
 
 ## Mycoterra and the Open Ring
+
+<p><img src="https://i.imgur.com/HtKgeHX.png" alt="Marshal Marioni" width="150"> <img src="https://i.imgur.com/tTx6l9R.png" alt="Princess Persica" width="150"></p>
 
 The neighboring **Sporeign Dominion of Mycoterra** spent twenty years rebuilding after overthrowing the slaveholding vampire government that once ruled it. Five years ago, Mycoterra petitioned to become another Leonian province. Ringleader Abraham vetoed admission under the charter's **Free Assent Clause** after auditors found suspiciously uniform votes, matching council resolutions, and communities that inspectors could not interview privately. Critics call the veto an old soldier's prejudice; supporters call unanimous politics a contradiction wearing a very cheerful hat.
 

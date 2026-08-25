@@ -1,18 +1,27 @@
 # Krunk — Campaign Ledger
 
-> **Player-facing campaign record.** Last audited: not yet audited. Party level: 12 as of Session 077.
+> **Player-facing campaign record.** The statistics below are a **legacy snapshot** from a compact party card. The source does not print a class level.
 
-## Current Statistics
+*Orc Oath of Vengeance Paladin — legacy level not printed*<br>
+**Alignment:** Lawful Good<br>
+**AC:** 17 (the card notes “up to 21”) • **HP:** 68 • **Speed:** 30 ft<br>
+**Spell save DC:** 14 • **Legacy Perception bonus:** +1<br>
+**Legacy spell slots:** four 1st-level and three 2nd-level
 
-| Statistic | Current value | Source / last verified |
-|---|---:|---|
-| Level and classes | TBD | Character sheet |
-| Armor Class | TBD | Character sheet |
-| Maximum hit points | TBD | Character sheet |
-| Speed | TBD | Character sheet |
-| Proficiency bonus | TBD | Character sheet |
-| Spell or ability save DC | TBD | Character sheet |
-| Passive Perception | TBD | Character sheet |
+## 💪 Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 18 | 10 | 14 | 8 | 12 | 16 |
+
+## 🎯 Skills
+
+The card marks **Athletics, Insight, Intimidation, Medicine, and Persuasion** as proficient but does not print their bonuses.
+
+## 🛠 Legacy Character Notes
+
+- **Saving throw proficiencies:** Wisdom and Charisma.
+- **Inferred proficiency bonus:** +3, derived from the printed spell save DC and Charisma score; this is not explicitly printed on the card.
 
 ## Currency and Major Purchases
 
@@ -43,5 +52,5 @@
 
 ## Audit Notes
 
-- Confirm the current character sheet statistics.
+- Replace this legacy snapshot when Krunk's current sheet is available; the source does not print his level.
 - Record large purchases immediately after the session where payment occurs.

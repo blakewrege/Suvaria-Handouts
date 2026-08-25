@@ -6,6 +6,7 @@
 
 - [Bellafronte Dupree “Bells”](bellafronte-dupree-bells-record.md)
 - [Caracas](caracas-record.md)
+- [Ella “Explosions” Emerald](ella-explosions-emerald-record.md) — legacy record
 - [Krunk](krunk-record.md)
 
 ## Items Recorded Under Bells
@@ -141,11 +142,11 @@ This magical pocket watch allows its owner to transport back to a previously set
 
 ## Former Character Records
 
-These names came from the imported document, but they do not currently have public player ledgers.
+These items were recorded under former characters. Linked legacy ledgers preserve the last-known public information where an actual sheet survived.
 
 ### Eyes of the Eagle
 
-> **Historical owner:** Ella
+> **Historical owner:** [Ella “Explosions” Emerald](ella-explosions-emerald-record.md)
 
 *Wondrous item, uncommon*
 
@@ -153,7 +154,7 @@ While wearing them, you have advantage on Perception and Investigation checks th
 
 ### Helm of Invisibility
 
-> **Historical owner:** Ella
+> **Historical owner:** [Ella “Explosions” Emerald](ella-explosions-emerald-record.md)
 
 *Wondrous item, uncommon*
 
@@ -161,7 +162,7 @@ This helmet makes the wearer’s head invisible. You may use this helm once per 
 
 ### Kinesis Module
 
-> **Historical owner:** Ella
+> **Historical owner:** [Ella “Explosions” Emerald](ella-explosions-emerald-record.md)
 
 *Wondrous item, uncommon (requires attunement)*
 

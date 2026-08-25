@@ -1,18 +1,33 @@
 # Bellafronte Dupree “Bells” — Campaign Ledger
 
-> **Active player character.** Player-facing campaign record based on the original questionnaire, released campaign material, and the public Session Progress record. Party level: 12 as of Session 077. Current statistics still need to be checked against the latest character sheet.
+> **Active player character.** The statistics below are a **legacy level-12 snapshot** from *Bells12.pdf*. Equipment, history, and released campaign material remain player-facing, but current values should still be checked against Bells's live sheet.
 
-## Current Statistics
+*Variant Human Wizard 12*<br>
+**Background:** Noble<br>
+**AC:** 13 • **HP:** 65 • **Speed:** 30 ft • **Proficiency:** +4<br>
+**Spell save DC:** 16 • **Spell attack:** +8<br>
+**Passive Perception:** 11 • **Passive Insight:** 11 • **Passive Investigation:** 14
 
-| Statistic | Current value | Source / last verified |
-|---|---:|---|
-| Level and classes | TBD | Current character sheet |
-| Armor Class | TBD | Current character sheet |
-| Maximum hit points | TBD | Current character sheet |
-| Speed | TBD | Current character sheet |
-| Proficiency bonus | TBD | Current character sheet |
-| Spell or ability save DC | TBD | Current character sheet |
-| Passive Perception | TBD | Current character sheet |
+## 💪 Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 | 14 | 10 | 18 | 12 | 17 |
+
+## 🎯 Skills
+
+| Proficiency | Legacy bonus |
+|---|---:|
+| Arcana | +8 |
+| Deception | +7 |
+| History | +8 |
+| Performance | +7 |
+| Persuasion | +7 |
+
+## 🛠 Legacy Class Features
+
+- **Arcane Recovery:** Recovers a combined 6 spell levels, with no recovered slot higher than 5th level.
+- **Legacy cantrips shown:** *Fire Bolt*, *Prestidigitation*, and *Shocking Grasp*.
 
 ## Known Background
 
@@ -63,6 +78,6 @@ See [Legacy Magic Items](homebrew-magic-items.md) for the currently published le
 
 ## Audit Notes
 
-- Confirm Bells’s current character sheet statistics.
+- Confirm whether the legacy level-12 statistics still match Bells's current sheet.
 - Separate the player-known Talking Skull rules from any unrevealed GM behavior before making it a standalone item page.
 - Rebalance the Stasis Module Charm before treating its legacy text as current rules.

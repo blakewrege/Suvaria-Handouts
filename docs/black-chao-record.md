@@ -1,18 +1,43 @@
 # Black Chao — Campaign Ledger
 
-> **Player-facing campaign record.** Last audited: not yet audited. Party level: 12 as of Session 077.
+> **Player-facing campaign record.** The statistics below are a **legacy level-11 snapshot**, not Chao's current level-12 sheet.
 
-## Current Statistics
+*Variant Human Monk (Jiàn Shèng) 11*<br>
+**Full name:** “Heise” Chao Ping • **Alignment:** Chaotic Neutral • **Background:** Natural Leader<br>
+**AC:** 17 • **HP:** 79 • **Speed:** 60 ft • **Proficiency:** +4<br>
+**Ki:** 11 • **Ki save DC:** 15
 
-| Statistic | Current value | Source / last verified |
+## 💪 Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14 | 18 | 15 | 10 | 16 | 15 |
+
+## 🎯 Skills
+
+| Proficiency | Legacy bonus |
+|---|---:|
+| Acrobatics | +8 |
+| Athletics | +6 |
+| Insight | +7 |
+| Intimidation | +6 |
+| Perception | +7 |
+
+## 🛠 Legacy Class Features
+
+- **Ki:** 11 points; Stunning Strike, Sharpen the Blade, Deft Strike, Flurry of Blows, Patient Defense, and Step of the Wind.
+- **Slow Fall:** Reduces falling damage by 55.
+- **Deflect Missiles:** Reduces ranged weapon damage by 1d10 + 11.
+- **Immunities:** Disease and poison.
+- **Feats:** Grappler, Sharpshooter, and Mobile.
+
+## ⚔️ Legacy Attacks
+
+| Attack | Bonus | Damage / notes |
 |---|---:|---|
-| Level and classes | TBD | Character sheet |
-| Armor Class | TBD | Character sheet |
-| Maximum hit points | TBD | Character sheet |
-| Speed | TBD | Character sheet |
-| Proficiency bonus | TBD | Character sheet |
-| Spell or ability save DC | TBD | Character sheet |
-| Passive Perception | TBD | Character sheet |
+| Mourneblade | +8 | 1d8 + 4, or 1d10 + 4 with two hands; wounding |
+| Kensei melee weapon | +8 | 1d8 + 4 |
+| Longbow | +8 | 1d8 + 4 |
 
 ## Currency and Major Purchases
 
@@ -36,5 +61,6 @@
 
 ## Audit Notes
 
-- Confirm the current character sheet statistics.
+- Replace this level-11 legacy snapshot when Chao's current sheet is available.
+- The sheet prints passive Perception 13 while also printing Perception +7. Both are preserved as historical data; the skill bonus appears above.
 - Record large purchases immediately after the session where payment occurs.

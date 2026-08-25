@@ -7,6 +7,7 @@ Public campaign ledgers for current statistics, major purchases, permanent upgra
 - [Black Chao](black-chao-record.md)
 - [Bobbin Hode](bobbin-hode-record.md)
 - [Caracas](caracas-record.md)
+- [Ella “Explosions” Emerald](ella-explosions-emerald-record.md)
 - [Fang Ro](fang-ro-record.md)
 - [Krunk](krunk-record.md)
 

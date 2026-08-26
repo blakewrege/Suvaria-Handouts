@@ -12,7 +12,7 @@ The player-facing home for Suvaria: current handouts, character records, equipme
 ## Characters, Equipment & Rules
 
 - [Player records](player-records.md) — character ledgers, known history, major purchases, and important equipment.
-- [Equipment & abilities](player-items.md) — standalone item cards, spellbooks, relics, and player-safe statistics.
+- [Equipment & abilities](player-items.md) — the complete master index for owned items, standalone cards, tattoos, relics, and player-safe abilities.
 - [Rules & character options](suvaria-homebrew-rules.md) — table rules, reward spells, specializations, curses, and legacy mechanics.
 
 ## Places & Local Handouts

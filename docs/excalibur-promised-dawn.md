@@ -96,7 +96,7 @@ If a non-authorized creature grasps the hilt:
 * **Success:** Half.
 * **Anti-Fortress:** Non-artifact barriers, heavy fortifications, and magical darkness along the line are seared/suppressed at the DM’s discretion.
 
-**Aftershock — Hero’s Fatigue:** For **1 minute** after firing: **speed halved**, **disadvantage on attack rolls**. A **Greater Restoration** can end this early.
+**Aftershock — Hero’s Fatigue:** For **1 minute** after firing: **speed halved**, **disadvantage on attack rolls**. A **Lesser Restoration** or **Greater Restoration** can end this early.
 
 ### Critical Glory *(Unlocks at Level 15)*
 

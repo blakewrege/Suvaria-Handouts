@@ -105,7 +105,7 @@ If a non-authorized creature grasps the hilt:
 
 * **Fail:** **5d10 radiant + 5d10 force + 2d10 per slot level above 3rd**.
 * **Success:** Half.
-* **Anti-Fortress:** Non-artifact barriers, heavy fortifications, and magical darkness along the line are seared/suppressed at the DM’s discretion.
+* **Anti-Fortress:** Non-artifact barriers, heavy fortifications, and magical darkness along the line are seared or suppressed at the DM’s discretion. Living fortresses, creatures integrated into fortifications, and creatures with the **Siege Monster** trait have **disadvantage on the Dexterity save** against Promised Victory.
 
 **Aftershock — Hero’s Fatigue:** For **1 minute** after firing: **speed halved**, **disadvantage on attack rolls**. A **Lesser Restoration** or **Greater Restoration** can end this early.
 

@@ -89,7 +89,7 @@ Krunk has **Extra Attack**, so he attacks twice whenever he takes the Attack act
 | Session | Vendor | Purchase | Price | Paid by | Mechanical effect or statistics | Notes |
 |---:|---|---|---:|---|---|---|
 | 077 | Ink Dragon Tattoo House | Adventurer's Party Line — Budget Family Plan | 140 gp | Krunk | Shared 25-word message and 25-word replies every 10 minutes | Linked to Amerilis, Chao, Bobbin, and Caracas |
-| 077 | Ink Dragon Tattoo House | Dragon Sneeze — Dragon With Allergies | 1,500 gp | Krunk | Once per short rest, `6d8` elemental damage in a 15-foot cone or 30-foot line | Experimental; natural 1 may trigger an accidental sneeze while charged |
+| 077 | Ink Dragon Tattoo House | Dragon Sneeze — Dragon With Allergies | 1,500 gp | Krunk | Once per short rest, `6d8` elemental damage in a 15-foot cone or 30-foot line | While charged, any natural 1 Krunk rolls on any d20 triggers an accidental sneeze |
 | 077 | Ink Dragon Tattoo House | Lucifer's Last Run | 2,000 gp | Krunk | Once per long rest, rush toward an ally who falls to 0 HP without provoking | Costs a 1st-level spell slot or 1 Hit Die |
 
 ## Permanent Upgrades and Custom Abilities
@@ -97,7 +97,7 @@ Krunk has **Extra Attack**, so he attacks twice whenever he takes the Attack act
 | Name | Source | Uses / recharge | Rules summary | Notes |
 |---|---|---|---|---|
 | Adventurer's Party Line — Budget Family Plan | [Ink Dragon catalog](ink-dragon-tattoo-house.md#greater-techniques) | Once every 10 minutes; shared cooldown | Send 25 words to the group; each member may reply with 25 words | Cannot mute, leave, or send privately |
-| Dragon Sneeze — Dragon With Allergies | [Ink Dragon catalog](ink-dragon-tattoo-house.md#dragon-sneeze) | Once per short rest | `6d8` damage in a 15-foot cone or 30-foot line; choose one of four seasoning runes | Save DC uses Krunk's Strength or Constitution modifier, chosen when applied |
+| Dragon Sneeze — Dragon With Allergies | [Ink Dragon catalog](ink-dragon-tattoo-house.md#dragon-sneeze) | Once per short rest | `6d8` damage in a 15-foot cone or 30-foot line; choose one of four seasoning runes | While charged, any natural 1 on any d20 roll triggers a random sneeze; save DC uses Krunk's Strength or Constitution modifier |
 | Lucifer's Last Run | [Ink Dragon catalog](ink-dragon-tattoo-house.md#greater-techniques) | Once per long rest | Reaction to move up to speed toward an ally who falls to 0 HP without provoking | Costs a 1st-level spell slot or 1 Hit Die |
 
 ## Current Important Equipment

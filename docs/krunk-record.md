@@ -47,7 +47,7 @@ Krunk is proficient in Constitution saves through **Resilient**, and in Wisdom a
 
 | Weapon | Attack | Damage | Notes |
 |---|:---:|---|---|
-| Excalibur, the Promised Dawn | +10 | `1d10 + 6` slashing | See the [full Excalibur handout](excalibur-promised-dawn.md) |
+| Excalibur, the Promised Dawn +2 | +10 | `1d8 + 6` one-handed or `1d10 + 6` two-handed | Versatile; once per turn against evil, add +4 radiant from Radiant Edge; see the [full Excalibur handout](excalibur-promised-dawn.md) |
 | Maul of Maelstroms +2 | +10 | `2d6 + 4` bludgeoning plus `2` lightning | Two-handed; attuned |
 | Heavy War Pick | +8 | `1d10 + 4` piercing | Damage die needs confirmation |
 | Ash's Righteous Chainsaw Blade +2 | +10 | `2d6 + 6` slashing | Two-handed; attuned; see the [original item handout](ashs-righteous-chainsaw-blade.md) |
@@ -134,7 +134,7 @@ A large black amulet. Once per day, Krunk may use a bonus action or reaction and
 
 ### Excalibur, the Promised Dawn
 
-Krunk currently carries and is attuned to [Excalibur, the Promised Dawn](excalibur-promised-dawn.md).
+Krunk currently carries and is attuned to [Excalibur, the Promised Dawn](excalibur-promised-dawn.md), a **+2 versatile longsword**. With Strength +4, he attacks at **+10** and deals `1d8 + 6` slashing one-handed or `1d10 + 6` slashing two-handed. Once per turn against a creature Excalibur deems evil, **Radiant Edge** adds **+4 radiant damage**.
 
 ## Other Carried Gear
 

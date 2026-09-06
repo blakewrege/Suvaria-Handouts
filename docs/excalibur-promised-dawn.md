@@ -36,13 +36,24 @@ Calibration: Power Output locked to Level 12 (60%) — Safety Limiters ENGAGED
 
 ## Quick Facts
 
-* **Type:** Longsword (versatile 1d8/1d10)
+* **Type:** +2 magic longsword; versatile (`1d8` one-handed or `1d10` two-handed)
 * **Light:** Sheds bright light 20 ft. / dim 20 ft. *(unless muted by the scabbard)*
 * **Languages while attuned:** Celestial & Draconic
 * **Sentience:** Lawful good; INT 8, WIS 14, CHA 16; telepathy with wielder (60 ft.)
 
 * **Personality**: Noble knight, with some quirks. Enthusiastically pro-smite. Favorite title for you: **“Sir Krunkulous the Unclonklable.”**
 * **Self-Limiting Radiance:** The blade throttles its own output to avoid killing a mortal bearer; higher unlocks gently loosen the limiters.
+
+### Krunk's Current Attack — Level 12
+
+Krunk has **Strength +4**, **proficiency +4**, and Excalibur's current **+2 enhancement**.
+
+| Grip | Attack roll | Slashing damage |
+|---|:---:|:---:|
+| One-handed | **+10 to hit** | `1d8 + 6` |
+| Two-handed | **+10 to hit** | `1d10 + 6` |
+
+Once on each of Krunk's turns, a hit against a creature Excalibur deems **evil** deals another **+4 radiant damage** from **Radiant Edge**. This is separate from Krunk's **Improved Divine Smite**, which adds `1d8` radiant damage to every melee weapon hit.
 
 ---
 

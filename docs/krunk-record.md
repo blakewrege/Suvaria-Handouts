@@ -5,7 +5,7 @@
 *Half-Orc Paladin 12 — Oath of Vengeance*<br>
 **Background:** Soldier (Officer) • **Alignment:** Neutral Good • **Holy Symbol:** The White Hand<br>
 **AC:** 20 • **HP Maximum:** 107 • **Speed:** 30 ft • **Initiative:** +0<br>
-**Proficiency Bonus:** +4 • **Spell Save DC:** 16, or **18 while actively wielding Excalibur** • **Spell Attack:** +8<br>
+**Proficiency Bonus:** +4 • **Spell Save DC:** 16, or **18 while actively wielding Excalibur** • **Spell Attack:** +8, or **+10 while wielding Excalibur**<br>
 **Hit Dice:** 12d10 • **Passive Perception:** 11
 
 ## Ability Scores
@@ -134,7 +134,7 @@ A large black amulet. Once per day, Krunk may use a bonus action or reaction and
 
 ### Excalibur, the Promised Dawn
 
-Krunk currently carries and is attuned to [Excalibur, the Promised Dawn](excalibur-promised-dawn.md), a **+2 versatile longsword**. With Strength +4, he attacks at **+10** and deals `1d8 + 6` slashing one-handed or `1d10 + 6` slashing two-handed. Once per turn against a creature Excalibur deems evil, **Radiant Edge** adds **+4 radiant damage**. His spell save DC increases from **16 to 18 only while Excalibur is actively in his hand and being wielded**.
+Krunk currently carries and is attuned to [Excalibur, the Promised Dawn](excalibur-promised-dawn.md), a **+2 versatile longsword**. With Strength +4, he attacks at **+10** and deals `1d8 + 6` slashing one-handed or `1d10 + 6` slashing two-handed. Once per turn against a creature Excalibur deems evil, **Radiant Edge** adds **+4 radiant damage**. Only while Excalibur is actively in his hand and being wielded, his spell save DC increases from **16 to 18** and his spell attack modifier increases from **+8 to +10**.
 
 ## Other Carried Gear
 
@@ -171,7 +171,7 @@ These appeared in Krunk's older record but are not visible on the new character 
 
 ## Needs Player Review
 
-- **Spell figures:** Spell save DC 16 and spell attack +8 are calculated from Charisma 18 and proficiency +4; they are not written in dedicated boxes on the photographed page.
+- **Spell figures:** Krunk's base spell save DC **16** and spell attack **+8** are calculated from Charisma 18 and proficiency +4; they are not written in dedicated boxes on the photographed page. While he is actively wielding Excalibur, its current +2 enhancement raises his **spell save DC to 18** and his **spell attack modifier to +10**.
 - **Current HP:** The sheet appears to show 69 current HP, but that is a changing session value and is intentionally not recorded as a permanent statistic.
 - **Heavy War Pick:** The sheet reads `1d10 + 4` piercing. A normal war pick uses a smaller die, so confirm whether this is a homebrew heavy version.
 - **Black Gauntlet:** The handwriting appears to say “+2 AC ranged / +1 AC” and “−2 Dex with shield.” Confirm the exact trigger and penalty.

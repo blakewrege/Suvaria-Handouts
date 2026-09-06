@@ -55,7 +55,7 @@ Krunk has **Strength +4**, **proficiency +4**, and Excalibur's current **+2 enha
 
 Once on each of Krunk's turns, a hit against a creature Excalibur deems **evil** deals another **+4 radiant damage** from **Radiant Edge**. This is separate from Krunk's **Improved Divine Smite**, which adds `1d8` radiant damage to every melee weapon hit.
 
-While Krunk is **actively wielding Excalibur in one or both hands**, its +2 enhancement also raises his **spell save DC from 16 to 18**. Attunement alone is not enough: the bonus ends whenever the sword is sheathed, stowed, dropped, or merely carried instead of wielded.
+While Krunk is **actively wielding Excalibur in one or both hands**, its +2 enhancement also raises his **spell save DC from 16 to 18** and his **spell attack modifier from +8 to +10**. Attunement alone is not enough: both bonuses end whenever the sword is sheathed, stowed, dropped, or merely carried instead of wielded.
 
 ---
 
@@ -76,11 +76,11 @@ While Krunk is **actively wielding Excalibur in one or both hands**, its +2 enha
 
 ## Scaling Enhancement
 
-The enhancement applies to Excalibur's attack and damage rolls. It also increases the wielder's spell save DC, but **only while Excalibur is actively wielded in one or both hands**.
+The enhancement applies to Excalibur's attack and damage rolls. It also increases the wielder's spell save DC and spell attack modifier, but **only while Excalibur is actively wielded in one or both hands**.
 
-* **+1** to attack, damage, and spell save DCs **Level 5–8**
-* **+2** to attack, damage, and spell save DCs **Level 9–14** *(you are here)*
-* **+3** to attack, damage, and spell save DCs **Level 15+**
+* **+1** to attack, damage, spell attacks, and spell save DCs **Level 5–8**
+* **+2** to attack, damage, spell attacks, and spell save DCs **Level 9–14** *(you are here)*
+* **+3** to attack, damage, spell attacks, and spell save DCs **Level 15+**
 
 ---
 

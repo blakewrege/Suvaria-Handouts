@@ -55,7 +55,11 @@ Krunk has **Strength +4**, **proficiency +4**, and Excalibur's current **+2 enha
 
 Once on each of Krunk's turns, a hit against a creature Excalibur deems **evil** deals another **+4 radiant damage** from **Radiant Edge**. This is separate from Krunk's **Improved Divine Smite**, which adds `1d8` radiant damage to every melee weapon hit.
 
-While Krunk is **actively wielding Excalibur in one or both hands**, its +2 enhancement also raises his **spell save DC from 16 to 18** and his **spell attack modifier from +8 to +10**. Attunement alone is not enough: both bonuses end whenever the sword is sheathed, stowed, dropped, or merely carried instead of wielded.
+### Hand on the Hilt
+
+Excalibur's spellcasting enhancement is active while its attuned bearer either **wields the drawn sword** or keeps **at least one hand touching its hilt while it is sheathed**, provided the bearer is **not wielding another weapon**. A shield does not count as another weapon.
+
+For Krunk, meeting this condition raises his **spell save DC from 16 to 18** and his **spell attack modifier from +8 to +10**. The bonuses end immediately if he releases the hilt, cannot reach the sword, or begins wielding a different weapon. Merely wearing or carrying Excalibur without touching its hilt is not enough.
 
 ---
 
@@ -76,7 +80,7 @@ While Krunk is **actively wielding Excalibur in one or both hands**, its +2 enha
 
 ## Scaling Enhancement
 
-The enhancement applies to Excalibur's attack and damage rolls. It also increases the wielder's spell save DC and spell attack modifier, but **only while Excalibur is actively wielded in one or both hands**.
+The enhancement applies to Excalibur's attack and damage rolls. It also increases the wielder's spell save DC and spell attack modifier while the **Hand on the Hilt** condition above is met.
 
 * **+1** to attack, damage, spell attacks, and spell save DCs **Level 5–8**
 * **+2** to attack, damage, spell attacks, and spell save DCs **Level 9–14** *(you are here)*

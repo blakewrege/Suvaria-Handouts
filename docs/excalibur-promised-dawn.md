@@ -109,10 +109,11 @@ If a non-authorized creature grasps the hilt:
 
 ### Noble Phantasm — **Promised Victory** *(Anti-Fortress Class)*
 
-**1/long rest.** As an **Action**, expend a **3rd-level spell slot or higher** to fire a daybreak beam: a **15-ft-wide, 120-ft-long** line. Creatures in the line make a **DEX save vs your spell DC**.
+**1/long rest.** As an **Action**, expend a **3rd-level spell slot or higher** to fire a daybreak beam: a **120-ft-long line** that is **5, 10, or 15 ft. wide** (your choice when fired). Creatures in the line make a **DEX save vs your spell DC**.
 
 * **Fail:** **5d10 radiant + 5d10 force + 2d10 per slot level above 3rd**.
 * **Success:** Half.
+* **Judgment of Dawn:** A creature Excalibur deems **evil** that fails the save is **blinded** and **cannot regain hit points** until the end of your next turn. For the same duration, an evil **undead** creature is also treated as standing in **direct sunlight**.
 * **Anti-Fortress:** Non-artifact barriers, heavy fortifications, and magical darkness along the line are seared or suppressed at the DM’s discretion. **Huge or larger creatures**, living fortresses, creatures integrated into fortifications, and creatures with the **Siege Monster** trait have **disadvantage on the Dexterity save** against Promised Victory.
 
 **Aftershock — Hero’s Fatigue:** For **1 minute** after firing: **speed halved**, **disadvantage on attack rolls**. A **Lesser Restoration** or **Greater Restoration** can end this early.

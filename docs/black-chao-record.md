@@ -72,6 +72,10 @@ Liáo Xi grants a **+1 bonus to attack and damage rolls** made with it. With Cha
 |---|---|---|---|
 | Liáo Xi (燎息), “Scorching Breath” | Confirm | This record | Chao's +1 transforming finesse sword and fire bow |
 
+## Shared Trial Equipment
+
+- [Bracelet of Arena Memento](bracelet-of-arena-memento.md) — Once per long rest, use a reaction while airborne to double jump up to 20 feet.
+
 ## Debts, Favors, and Ongoing Services
 
 | Owed to / by | Terms | Status | Notes |

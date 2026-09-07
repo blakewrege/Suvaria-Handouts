@@ -153,7 +153,6 @@ The following low-magic and mundane equipment is transcribed from the current ch
 
 - Cast-Off plate armor
 - Common clothes
-- Black Gauntlet; its old AC notes were a mistake, and proposed replacement rules remain under **Needs Player Review**
 - Heavy chain cloak that can be used as a net
 - Platform Gun: creates 10-by-10-foot platforms on a surface within 60 feet; 4 charges per short rest
 - Clockwork Bounce Boots: once per short rest, triple long-jump distance for 1 round; the resulting **BOING** can be heard within 60 feet
@@ -167,15 +166,9 @@ The following low-magic and mundane equipment is transcribed from the current ch
 - Farglow Flares ×3: each produces *daylight* in a 20-foot radius for 10 minutes
 - Tent and climber's kit
 
-## Former or Unconfirmed Equipment
+## Shared Trial Equipment
 
-These appeared in Krunk's older record but are not visible on the new character sheet.
-
-| Item | Previous rules source | Status |
-|---|---|---|
-| Ring of the Gladiators | [Legacy item entry](homebrew-magic-items.md#ring-of-the-gladiators) | **Sold** with other surplus equipment |
-| Sword of Screams | [Legacy item entry](homebrew-magic-items.md#sword-of-screams) | Confirm possession and preferred soundtrack |
-| Chilling Halberd | [Legacy item entry](homebrew-magic-items.md#chilling-halberd) | **Sold** with other surplus equipment |
+- [Bracelet of Arena Memento](bracelet-of-arena-memento.md) — Once per long rest, use a reaction while airborne to double jump up to 20 feet.
 
 ## Debts, Favors, and Ongoing Services
 
@@ -186,17 +179,4 @@ These appeared in Krunk's older record but are not visible on the new character 
 
 - **Spell figures:** Krunk's base spell save DC **16** and spell attack **+8** are calculated from Charisma 18 and proficiency +4; they are not written in dedicated boxes on the photographed page. Excalibur raises them to **DC 18** and **+10** while Krunk meets its **Hand on the Hilt** condition.
 - **Current HP:** The sheet appears to show 69 current HP, but that is a changing session value and is intentionally not recorded as a permanent statistic.
-
-### Black Gauntlet — Proposed Replacement Rules
-
-> **Not final.** The old static AC bonuses were written in error. This restrained replacement keeps the intended evil ribbon-device powers without making the gauntlet better than Krunk's major weapons.
-
-*Wondrous item, rare and cursed; requires attunement*
-
-Black metal ribbons clamp around the hand and forearm, terminating in a blood-red stone set into the palm. The gauntlet has **3 charges**, regains all charges at dusk, and uses **save DC 16**.
-
-- **Ribbon Pulse — 1 charge, Action.** One creature within 30 feet makes a Strength save. On a failure, it takes `2d8` force damage and is pushed 15 feet directly away. On a success, it takes half damage and is not pushed.
-- **Serpent Ward — 1 charge, Reaction.** When a ranged attack hits Krunk, he gains **+3 AC against that attack only**, possibly causing it to miss. This is not a persistent AC bonus.
-- **Neural Lash — 2 charges, Action.** One creature within 30 feet makes a Wisdom save. On a failure, it takes `3d6` psychic damage, cannot take reactions, and is frightened of Krunk until the end of his next turn. On a success, it takes half damage and suffers no other effect.
-- **Tyrant's Touch — no charge, Action.** Manipulate one unattended object or unlocked mechanical control within 30 feet as though using *mage hand*. It cannot attack, pick locks, disarm traps, or lift more than 10 pounds.
-- **Curse — System Lord's Pride.** The gauntlet cannot be willingly removed while attuned. Whenever a creature succeeds on a saving throw against the gauntlet, Krunk must succeed on a DC 14 Wisdom save or become fixated on punishing that defiance: until the end of his next turn, he has disadvantage on attacks against creatures other than that target. The gauntlet continually whispers that mercy is merely poor management.
+- **Black Gauntlet:** [Review the separate Black Gauntlet record](black-gauntlet.md). Krunk thinks Excalibur may have destroyed it. Confirm whether it still exists before returning any of its preserved or proposed abilities to his active equipment.

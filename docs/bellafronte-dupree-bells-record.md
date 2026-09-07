@@ -71,6 +71,10 @@ See [Legacy Magic Items](homebrew-magic-items.md) for the currently published le
 | Staff of Whispers of the Dark Lord | Unknown | [Original item handout](staff-of-whispers-of-the-dark-lord.md) | Currently carried by Bells; confirm present attunement |
 | Elixir of Enhanced Eloquence | Consumed / verify | [Legacy item entry](homebrew-magic-items.md#elixir-of-enhanced-eloquence) | Permanent benefit; original sentence is incomplete |
 
+## Shared Trial Equipment
+
+- [Bracelet of Arena Memento](bracelet-of-arena-memento.md) — Once per long rest, use a reaction while airborne to double jump up to 20 feet.
+
 ## Debts, Favors, and Ongoing Services
 
 | Owed to / by | Terms | Status | Notes |

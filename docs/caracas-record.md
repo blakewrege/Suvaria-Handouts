@@ -53,6 +53,10 @@ The card marks **Insight, Intimidation, Medicine, Perception, and Religion** as 
 | Plasma Cutter of Limb Severance | Yes | [Original item handout](plasma-cutter-of-limb-severance.md) | Historical mechanics preserved unchanged |
 | Gloves of Archival Knowledge | Unknown | [Legacy item entry](homebrew-magic-items.md#gloves-of-archival-knowledge) | Confirm current possession and attunement |
 
+## Shared Trial Equipment
+
+- [Bracelet of Arena Memento](bracelet-of-arena-memento.md) — Once per long rest, use a reaction while airborne to double jump up to 20 feet.
+
 ## Debts, Favors, and Ongoing Services
 
 | Owed to / by | Terms | Status | Notes |

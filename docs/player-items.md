@@ -22,6 +22,8 @@ Each record contains that character’s important equipment, permanent upgrades,
 Detailed cards, spellbooks, relics, companion statistics, and other mechanics large enough to deserve their own page.
 
 - [Krunk — Excalibur, the Promised Dawn](excalibur-promised-dawn.md)
+- [Party — Bracelet of Arena Memento](bracelet-of-arena-memento.md)
+- [Black Gauntlet — Rules Review](black-gauntlet.md)
 - [Fang — Bag of Seed Tricks](bag-of-seed-tricks.md)
 - [Fang — Skyhook Maneuver Gear](skyhook-maneuver-gear.md)
 - [Krunk — Ash’s Righteous Chainsaw Blade](ashs-righteous-chainsaw-blade.md)

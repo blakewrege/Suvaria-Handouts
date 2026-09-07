@@ -38,6 +38,10 @@
 | Cloak of Winter’s Grace | Yes | [Heritage & Equipment](amerilis-heritage-and-equipment.md) | Ancestral garment |
 | Lindarcalen — The Emberdream Brooch | Yes | [Heritage & Equipment](amerilis-heritage-and-equipment.md) | Summer Court heirloom and Cinderkin’s bond |
 
+## Shared Trial Equipment
+
+- [Bracelet of Arena Memento](bracelet-of-arena-memento.md) — Once per long rest, use a reaction while airborne to double jump up to 20 feet.
+
 ## Debts, Favors, and Ongoing Services
 
 | Owed to / by | Terms | Status | Notes |

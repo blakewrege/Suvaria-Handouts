@@ -50,6 +50,10 @@
 - Rope, thieves’ tools, poorly written love poems
 - Cooking gear enchanted to always burn eggs
 
+## Shared Trial Equipment
+
+- [Bracelet of Arena Memento](bracelet-of-arena-memento.md) — Once per long rest, use a reaction while airborne to double jump up to 20 feet.
+
 ## 🐉 Session 077 Tattoos
 
 | Tattoo | Price | Rules summary |

@@ -100,17 +100,7 @@ You have advantage on History checks to decipher an object’s origin. Once per 
 
 ## Items Recorded Under Krunk
 
-This section preserves both current and former equipment; each item's status is noted below.
-
 [Open Krunk’s current player record](krunk-record.md).
-
-### Ring of the Gladiators
-
-*Wondrous item, common — sold*
-
-Explosive applause plays every time you critically hit with an attack or deliver a killing blow to an enemy. Add 1d6 to your next attack roll.
-
-A laugh track plays if the wielder critically fails an attack roll. Subtract 1d6 from your next attack roll.
 
 ### Veil of Shadows
 
@@ -124,13 +114,6 @@ A large black amulet also known as the Shield of the Void. Once per day you can 
 
 When pulled from its scabbard, everyone within 60 feet is deafened for 1d4 turns. It has the same statistics as a longsword and is magical. While wielding this weapon you may ask the DM to play selected screamo or metal music.
 
-### Chilling Halberd
-
-*Halberd, uncommon (requires attunement) — sold*
-
-You gain a +1 bonus to attack and damage rolls made with this magic weapon and can apply the Call of the Grave effect when you hit.
-
-- **Call of the Grave (Recharge 6):** Add 1d6 necrotic damage. A ghostly skeletal hand attaches to the target, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on its next attack roll against you until the start of your next turn.
 
 ### Ash’s Righteous Chainsaw Blade
 
@@ -192,6 +175,26 @@ Once per turn, you can use an action to detach a bead. When you do, a 3rd-level 
 You can detach multiple beads, or even the whole necklace, as one action. When you do so, increase the level of *Lightning Bolt* by 1 for each bead beyond the first. You may use this while wild shaped if the creature has enough manual dexterity.
 
 ## Sold or Unassigned Items
+
+### Ring of the Gladiators
+
+> **Status:** Sold by Krunk
+
+*Wondrous item, common*
+
+Explosive applause plays every time you critically hit with an attack or deliver a killing blow to an enemy. Add 1d6 to your next attack roll.
+
+A laugh track plays if the wielder critically fails an attack roll. Subtract 1d6 from your next attack roll.
+
+### Chilling Halberd
+
+> **Status:** Sold by Krunk
+
+*Halberd, uncommon (requires attunement)*
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon and can apply the Call of the Grave effect when you hit.
+
+- **Call of the Grave (Recharge 6):** Add 1d6 necrotic damage. A ghostly skeletal hand attaches to the target, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on its next attack roll against you until the start of your next turn.
 
 ### Shadow Dagger
 

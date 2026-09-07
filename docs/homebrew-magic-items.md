@@ -100,11 +100,13 @@ You have advantage on History checks to decipher an object’s origin. Once per 
 
 ## Items Recorded Under Krunk
 
+This section preserves both current and former equipment; each item's status is noted below.
+
 [Open Krunk’s current player record](krunk-record.md).
 
 ### Ring of the Gladiators
 
-*Wondrous item, common*
+*Wondrous item, common — sold*
 
 Explosive applause plays every time you critically hit with an attack or deliver a killing blow to an enemy. Add 1d6 to your next attack roll.
 
@@ -124,7 +126,7 @@ When pulled from its scabbard, everyone within 60 feet is deafened for 1d4 turns
 
 ### Chilling Halberd
 
-*Halberd, uncommon (requires attunement)*
+*Halberd, uncommon (requires attunement) — sold*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon and can apply the Call of the Grave effect when you hit.
 
@@ -136,7 +138,7 @@ The current mechanics live in the canonical [Krunk — Ash’s Righteous Chainsa
 
 ### Historian’s Horologe
 
-*Wondrous item, rare (requires attunement)*
+*Wondrous item, uncommon; does not require attunement*
 
 This magical pocket watch allows its owner to transport back to a previously set position once per day.
 

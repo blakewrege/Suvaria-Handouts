@@ -49,10 +49,17 @@ Krunk is proficient in Constitution saves through **Resilient**, and in Wisdom a
 |---|:---:|---|---|
 | Excalibur, the Promised Dawn +2 | +10 | `1d8 + 6` one-handed or `1d10 + 6` two-handed | Versatile; once per turn against evil, add +4 radiant from Radiant Edge; see the [full Excalibur handout](excalibur-promised-dawn.md) |
 | Maul of Maelstroms +2 | +10 | `2d6 + 4` bludgeoning plus `2` lightning | Two-handed; attuned |
-| Heavy War Pick | +8 | `1d10 + 4` piercing | Damage die needs confirmation |
+| Heavy War Pick | +8 | `1d10 + 4` piercing | Confirmed homebrew heavy version |
 | Ash's Righteous Chainsaw Blade +2 | +10 | `2d6 + 6` slashing | Two-handed; attuned; see the [original item handout](ashs-righteous-chainsaw-blade.md) |
 
 Krunk has **Extra Attack**, so he attacks twice whenever he takes the Attack action.
+
+### Weapon Group Specialization — Clubs
+
+Krunk uses [Club Specialization](homebrew-weapon-specializations.md#club-specialization):
+
+- When Krunk critically strikes with a club-group weapon, the target is knocked prone.
+- Whenever Krunk makes a Strength (Athletics) check to shove a target, he deals damage equal to his Strength modifier (**4**) whether the shove succeeds or fails.
 
 ## Core Features
 
@@ -65,7 +72,7 @@ Krunk has **Extra Attack**, so he attacks twice whenever he takes the Attack act
 - **Great Weapon Fighting.** When Krunk rolls a 1 or 2 on a damage die for a two-handed or versatile melee weapon wielded with two hands, he may reroll that die and must use the new result.
 - **Divine Health.** Krunk is immune to disease.
 - **Lay on Hands.** Krunk has a pool of 60 HP per long rest. He may also spend 5 HP from the pool to cure one disease or neutralize one poison.
-- **Divine Sense.** As an action, Krunk detects celestials, fiends, and undead within 60 feet that are not behind total cover.
+- **Divine Sense — 5/long rest.** As an action, Krunk detects celestials, fiends, and undead within 60 feet that are not behind total cover.
 - **Divine Smite.** After hitting with a melee weapon, expend a spell slot for `2d8` radiant damage, plus `1d8` per slot level above 1st to a maximum of `5d8`, and another `1d8` against a fiend or undead.
 - **Improved Divine Smite.** Krunk's melee weapon hits deal an extra `1d8` radiant damage.
 - **Aura of Protection.** Krunk and friendly creatures within 10 feet add his +4 Charisma modifier to saving throws while he is conscious.
@@ -86,7 +93,9 @@ Krunk has **Extra Attack**, so he attacks twice whenever he takes the Attack act
 
 ## Currency and Major Purchases
 
-| Session | Vendor | Purchase | Price | Paid by | Mechanical effect or statistics | Notes |
+> **Price note:** These are the shop's listed prices. Krunk purchased the tattoos at substantial discounts; the exact amounts paid were not recorded on the photographed sheet.
+
+| Session | Vendor | Purchase | Listed price | Paid by | Mechanical effect or statistics | Notes |
 |---:|---|---|---:|---|---|---|
 | 077 | Ink Dragon Tattoo House | Adventurer's Party Line — Budget Family Plan | 140 gp | Krunk | Shared 25-word message and 25-word replies every 10 minutes | Linked to Amerilis, Chao, Bobbin, and Caracas |
 | 077 | Ink Dragon Tattoo House | Dragon Sneeze — Dragon With Allergies | 1,500 gp | Krunk | Once per short rest, `6d8` elemental damage in a 15-foot cone or 30-foot line | While charged, any natural 1 Krunk rolls on any d20 triggers an accidental sneeze |
@@ -122,7 +131,7 @@ Krunk has **Extra Attack**, so he attacks twice whenever he takes the Attack act
 
 ### Historian's Horologe
 
-*Uncommon*
+*Uncommon; does not require attunement*
 
 This magical pocket watch allows its owner to teleport back to a previously set position once per day.
 
@@ -140,9 +149,11 @@ Krunk currently carries and is attuned to [Excalibur, the Promised Dawn](excalib
 
 ## Other Carried Gear
 
+The following low-magic and mundane equipment is transcribed from the current character sheet. Quantities are included where they were legible.
+
 - Cast-Off plate armor
 - Common clothes
-- Black gauntlet with separate ranged and shield-related armor notes; see **Needs Player Review**
+- Black Gauntlet; its old AC notes were a mistake, and proposed replacement rules remain under **Needs Player Review**
 - Heavy chain cloak that can be used as a net
 - Platform Gun: creates 10-by-10-foot platforms on a surface within 60 feet; 4 charges per short rest
 - Clockwork Bounce Boots: once per short rest, triple long-jump distance for 1 round; the resulting **BOING** can be heard within 60 feet
@@ -156,15 +167,15 @@ Krunk currently carries and is attuned to [Excalibur, the Promised Dawn](excalib
 - Farglow Flares ×3: each produces *daylight* in a 20-foot radius for 10 minutes
 - Tent and climber's kit
 
-## Legacy Items Not Shown on the Updated Sheet
+## Former or Unconfirmed Equipment
 
-These appeared in Krunk's older record but are not visible on the new character sheet. They remain here until ownership is confirmed.
+These appeared in Krunk's older record but are not visible on the new character sheet.
 
 | Item | Previous rules source | Status |
 |---|---|---|
-| Ring of the Gladiators | [Legacy item entry](homebrew-magic-items.md#ring-of-the-gladiators) | Confirm possession |
+| Ring of the Gladiators | [Legacy item entry](homebrew-magic-items.md#ring-of-the-gladiators) | **Sold** with other surplus equipment |
 | Sword of Screams | [Legacy item entry](homebrew-magic-items.md#sword-of-screams) | Confirm possession and preferred soundtrack |
-| Chilling Halberd | [Legacy item entry](homebrew-magic-items.md#chilling-halberd) | Confirm possession and attunement |
+| Chilling Halberd | [Legacy item entry](homebrew-magic-items.md#chilling-halberd) | **Sold** with other surplus equipment |
 
 ## Debts, Favors, and Ongoing Services
 
@@ -175,8 +186,17 @@ These appeared in Krunk's older record but are not visible on the new character 
 
 - **Spell figures:** Krunk's base spell save DC **16** and spell attack **+8** are calculated from Charisma 18 and proficiency +4; they are not written in dedicated boxes on the photographed page. Excalibur raises them to **DC 18** and **+10** while Krunk meets its **Hand on the Hilt** condition.
 - **Current HP:** The sheet appears to show 69 current HP, but that is a changing session value and is intentionally not recorded as a permanent statistic.
-- **Heavy War Pick:** The sheet reads `1d10 + 4` piercing. A normal war pick uses a smaller die, so confirm whether this is a homebrew heavy version.
-- **Black Gauntlet:** The handwriting appears to say “+2 AC ranged / +1 AC” and “−2 Dex with shield.” Confirm the exact trigger and penalty.
-- **Club/shove note:** The attack box appears to say “Clubs: crit = knock enemy prone” and “Shove = STR damage, success or fail.” Confirm the intended full rule.
-- **Divine Sense uses:** The sheet notes both `1 + CHA` and four uses per long rest. With Charisma 18, the standard total would be five.
-- **Attunement:** The item cards mark the chainsaw blade, maul, and Veil of Shadows as attuned. That is three items before Excalibur, so confirm which three are actually occupying Krunk's attunement slots.
+
+### Black Gauntlet — Proposed Replacement Rules
+
+> **Not final.** The old static AC bonuses were written in error. This restrained replacement keeps the intended evil ribbon-device powers without making the gauntlet better than Krunk's major weapons.
+
+*Wondrous item, rare and cursed; requires attunement*
+
+Black metal ribbons clamp around the hand and forearm, terminating in a blood-red stone set into the palm. The gauntlet has **3 charges**, regains all charges at dusk, and uses **save DC 16**.
+
+- **Ribbon Pulse — 1 charge, Action.** One creature within 30 feet makes a Strength save. On a failure, it takes `2d8` force damage and is pushed 15 feet directly away. On a success, it takes half damage and is not pushed.
+- **Serpent Ward — 1 charge, Reaction.** When a ranged attack hits Krunk, he gains **+3 AC against that attack only**, possibly causing it to miss. This is not a persistent AC bonus.
+- **Neural Lash — 2 charges, Action.** One creature within 30 feet makes a Wisdom save. On a failure, it takes `3d6` psychic damage, cannot take reactions, and is frightened of Krunk until the end of his next turn. On a success, it takes half damage and suffers no other effect.
+- **Tyrant's Touch — no charge, Action.** Manipulate one unattended object or unlocked mechanical control within 30 feet as though using *mage hand*. It cannot attack, pick locks, disarm traps, or lift more than 10 pounds.
+- **Curse — System Lord's Pride.** The gauntlet cannot be willingly removed while attuned. Whenever a creature succeeds on a saving throw against the gauntlet, Krunk must succeed on a DC 14 Wisdom save or become fixated on punishing that defiance: until the end of his next turn, he has disadvantage on attacks against creatures other than that target. The gauntlet continually whispers that mercy is merely poor management.

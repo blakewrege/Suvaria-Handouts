@@ -1,6 +1,6 @@
 # Suvaria Player Portal
 
-The player website is published at **https://blakewrege.github.io/Suvaria-Handouts/**.
+The player website is published at **https://blakewrege.github.io/Suvaria-Wiki/**.
 
 The Markdown source is intentionally flat under `docs/`; the navigation in `mkdocs.yml` supplies the player-friendly hierarchy. This repository is generated from an explicit private allowlist. Do not edit generated handouts here.
 

@@ -1,8 +1,8 @@
 site_name: "Suvaria Player Portal"
 site_description: "Player-facing handouts, places, and campaign rules for Suvaria."
-site_url: "https://blakewrege.github.io/Suvaria-Handouts/"
-repo_url: "https://github.com/blakewrege/Suvaria-Handouts"
-repo_name: "Suvaria-Handouts"
+site_url: "https://blakewrege.github.io/Suvaria-Wiki/"
+repo_url: "https://github.com/blakewrege/Suvaria-Wiki"
+repo_name: "Suvaria-Wiki"
 edit_uri: ""
 theme:
   name: mkdocs

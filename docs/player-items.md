@@ -23,7 +23,7 @@ Detailed cards, spellbooks, relics, companion statistics, and other mechanics la
 
 - [Krunk — Excalibur, the Promised Dawn](excalibur-promised-dawn.md)
 - [Party — Bracelet of Arena Memento](bracelet-of-arena-memento.md)
-- [Black Gauntlet — Rules Review](black-gauntlet.md)
+- [Kara Vesh — Gauntlet Rules Review](black-gauntlet.md)
 - [Fang — Bag of Seed Tricks](bag-of-seed-tricks.md)
 - [Fang — Skyhook Maneuver Gear](skyhook-maneuver-gear.md)
 - [Krunk — Ash’s Righteous Chainsaw Blade](ashs-righteous-chainsaw-blade.md)

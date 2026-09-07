@@ -157,7 +157,7 @@ The following low-magic and mundane equipment is transcribed from the current ch
 - Platform Gun: creates 10-by-10-foot platforms on a surface within 60 feet; 4 charges per short rest
 - Clockwork Bounce Boots: once per short rest, triple long-jump distance for 1 round; the resulting **BOING** can be heard within 60 feet
 - Glitter Grenades ×3, DC 13
-- Staff of Healing
+- Staff of Heeling
 - Bone dice
 - Explorer's Pack
 - Potions of Healing ×3
@@ -179,4 +179,4 @@ The following low-magic and mundane equipment is transcribed from the current ch
 
 - **Spell figures:** Krunk's base spell save DC **16** and spell attack **+8** are calculated from Charisma 18 and proficiency +4; they are not written in dedicated boxes on the photographed page. Excalibur raises them to **DC 18** and **+10** while Krunk meets its **Hand on the Hilt** condition.
 - **Current HP:** The sheet appears to show 69 current HP, but that is a changing session value and is intentionally not recorded as a permanent statistic.
-- **Black Gauntlet:** [Review the separate Black Gauntlet record](black-gauntlet.md). Krunk thinks Excalibur may have destroyed it. Confirm whether it still exists before returning any of its preserved or proposed abilities to his active equipment.
+- **Black Gauntlet:** [Review the separate Black Gauntlet record](black-gauntlet.md). Excalibur may have destroyed it. Confirm whether it still exists before returning any of its preserved or proposed abilities to his active equipment.

@@ -3,7 +3,7 @@
 <div class="portal-note"><strong>Archive audit notice:</strong> This handout was released before Session 077 and may contain older mechanics, names, links, or lore phrasing that still needs review. The table's latest ruling is authoritative.</div>
 
 
-> **Status uncertain:** Krunk thinks Excalibur may have destroyed the Black Gauntlet. It is not listed as current equipment until that memory—and the final mechanics—are confirmed.
+> **Status uncertain:** Excalibur may have destroyed the Black Gauntlet. It is not listed as current equipment until its fate—and the final mechanics—are confirmed.
 
 *Wondrous item, rare and evil; requires attunement*
 
@@ -34,4 +34,3 @@ The gauntlet has **3 charges**, regains all charges at dusk, and uses **save DC 
 - Did Excalibur destroy the gauntlet?
 - Does “DEX −2” use the interpretation above?
 - Should the legacy protection and proposed powers coexist, or should the powers replace part of the protection?
-
